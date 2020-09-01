@@ -1,0 +1,375 @@
+{
+    "ExchangeCurrecncy": [
+        {
+            "currencyRate": 2,
+            "convertTime": "1:7:2020 6:00PM"
+          }
+          ,
+          {
+            "currencyRate": 2.1,
+            "convertTime": "1:7:2020 8:00PM"
+          }
+        ,
+        {
+            "currencyRate": 2.2,
+            "convertTime": "1:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.3,
+           "convertTime": "1:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 2.5,
+            "convertTime": "2:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 2.42,
+            "convertTime": "2:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.47,
+           "convertTime": "2:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 2.48,
+            "convertTime": "3:7:2020 6:00PM"
+          }
+           ,
+          {
+            "currencyRate": 2.475,
+            "convertTime": "3:7:2020 7:00PM"
+          }
+        ,
+        {
+            "currencyRate": 3.0,
+            "convertTime": "3:7:2020 4:00PM"
+          }
+          
+        ,
+        {
+           "currencyRate": 2.9,
+           "convertTime": "3:7:2020 2:00PM"
+         }
+         ,
+         {
+            "currencyRate": 2.8,
+            "convertTime": "3:7:2020 5:00PM"
+          }
+         ,
+          {
+            "currencyRate": 3.2,
+            "convertTime": "4:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 1.8,
+            "convertTime": "4:7:2020 4:00PM"
+          }
+           ,
+        {
+            "currencyRate": 1.5,
+            "convertTime": "4:7:2020 5:00PM"
+          }
+             ,
+        {
+            "currencyRate": 1.5,
+            "convertTime": "4:7:2020 8:00PM"
+          }
+         ,
+        {
+            "currencyRate": 1.9,
+            "convertTime": "4:7:2020 8:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.5,
+           "convertTime": "4:7:2020 2:00PM"
+         }
+         ,
+        {
+           "currencyRate": 2.3,
+           "convertTime": "4:7:2020 12:00PM"
+         }
+         ,
+          {
+            "currencyRate": 2.1,
+            "convertTime": "5:7:2020 6:00PM"
+          }
+          ,
+          {
+            "currencyRate": 2.6,
+            "convertTime": "5:7:2020 7:00PM"
+          }
+        ,
+        
+        {
+            "currencyRate": 3.5,
+            "convertTime": "5:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 3.7,
+           "convertTime": "6:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 3.75,
+            "convertTime": "7:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 4.2,
+            "convertTime": "7:7:2020 4:00PM"
+          }
+          ,
+        {
+            "currencyRate": 4.15,
+            "convertTime": "7:7:2020 3:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.7,
+           "convertTime": "7:7:2020 2:00PM"
+         }
+          ,
+        {
+           "currencyRate": 2.5,
+           "convertTime": "7:7:2020 12:00PM"
+         }
+         ,
+          {
+            "currencyRate": 3.0,
+            "convertTime": "8:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 2.5,
+            "convertTime": "8:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 4.4,
+           "convertTime": "8:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 3.3,
+            "convertTime": "9:7:2020 6:00PM"
+          }
+           ,
+          {
+            "currencyRate": 3.2,
+            "convertTime": "9:7:2020 1:00PM"
+          }
+            ,
+          {
+            "currencyRate": 3.1,
+            "convertTime": "9:7:2020 12:00PM"
+          }
+        ,
+        {
+            "currencyRate": 3,
+            "convertTime": "9:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.9,
+           "convertTime": "9:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 2.0,
+            "convertTime": "10:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 3,
+            "convertTime": "10:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 3.2,
+           "convertTime": "10:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 5.3,
+            "convertTime": "11:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 4.2,
+            "convertTime": "11:7:2020 4:00PM"
+          }
+           ,
+        {
+            "currencyRate": 4.3,
+            "convertTime": "11:7:2020 3:00PM"
+          }
+        ,
+        {
+           "currencyRate": 4.7,
+           "convertTime": "11:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 4.5,
+            "convertTime": "12:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 4.6,
+            "convertTime": "12:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 4.7,
+           "convertTime": "12:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 4.8,
+            "convertTime": "13:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 5.5,
+            "convertTime": "13:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 4.8,
+           "convertTime": "13:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 5,
+            "convertTime": "14:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 4.5,
+            "convertTime": "14:7:2020 4:00PM"
+          },
+          {
+            "currencyRate": 2.5,
+            "convertTime": "15:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 2.42,
+            "convertTime": "15:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.47,
+           "convertTime": "15:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 2.48,
+            "convertTime": "16:7:2020 6:00PM"
+          }
+           ,
+          {
+            "currencyRate": 2.475,
+            "convertTime": "16:7:2020 7:00PM"
+          }
+        ,
+        {
+            "currencyRate": 3.0,
+            "convertTime": "16:7:2020 4:00PM"
+          }
+          
+        ,
+        {
+           "currencyRate": 2.9,
+           "convertTime": "17:7:2020 2:00PM"
+         }
+         ,
+         {
+            "currencyRate": 2.8,
+            "convertTime": "17:7:2020 5:00PM"
+          }
+         ,
+          {
+            "currencyRate": 3.2,
+            "convertTime": "17:7:2020 6:00PM"
+          }
+        ,
+        {
+            "currencyRate": 1.8,
+            "convertTime": "17:7:2020 4:00PM"
+          }
+           ,
+        {
+            "currencyRate": 1.5,
+            "convertTime": "18:7:2020 5:00PM"
+          }
+             ,
+        {
+            "currencyRate": 1.5,
+            "convertTime": "18:7:2020 8:00PM"
+          }
+         ,
+        {
+            "currencyRate": 1.9,
+            "convertTime": "18:7:2020 8:00PM"
+          }
+        ,
+        {
+           "currencyRate": 2.5,
+           "convertTime": "19:7:2020 2:00PM"
+         }
+         ,
+        {
+           "currencyRate": 2.3,
+           "convertTime": "19:7:2020 12:00PM"
+         }
+         ,
+          {
+            "currencyRate": 2.1,
+            "convertTime": "20:7:2020 6:00PM"
+          }
+          ,
+          {
+            "currencyRate": 2.6,
+            "convertTime": "20:7:2020 7:00PM"
+          }
+        ,
+        
+        {
+            "currencyRate": 3.5,
+            "convertTime": "20:7:2020 4:00PM"
+          }
+        ,
+        {
+           "currencyRate": 3.7,
+           "convertTime": "20:7:2020 2:00PM"
+         }
+         ,
+          {
+            "currencyRate": 3.75,
+            "convertTime": "21:7:2020 6:00PM"
+          }
+         ,
+          {
+            "currencyRate": 2.475,
+            "convertTime": "22:7:2020 7:00PM"
+          }
+        ,
+        {
+            "currencyRate": 3.0,
+            "convertTime": "22:7:2020 4:00PM"
+          }
+          
+    
+        
+       
+    ]
+}
