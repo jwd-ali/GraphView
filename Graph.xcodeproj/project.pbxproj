@@ -33,8 +33,6 @@
 		E3E297C424D894A5009EF0F0 /* UIRoundedButtonFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E297C324D894A5009EF0F0 /* UIRoundedButtonFactory.swift */; };
 		E3E297C624D89540009EF0F0 /* UIRoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E297C524D89540009EF0F0 /* UIRoundedButton.swift */; };
 		E3F3712224D990EE008D6F76 /* ExchangeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F3712124D990EE008D6F76 /* ExchangeModel.swift */; };
-		E3F7F9EA24FE966C004DBE69 /* JDNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F7F9E824FE966B004DBE69 /* JDNavigationController.swift */; };
-		E3F7F9EB24FE966C004DBE69 /* JDNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F7F9E924FE966B004DBE69 /* JDNavigationBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,8 +85,6 @@
 		E3E297C324D894A5009EF0F0 /* UIRoundedButtonFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRoundedButtonFactory.swift; sourceTree = "<group>"; };
 		E3E297C524D89540009EF0F0 /* UIRoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRoundedButton.swift; sourceTree = "<group>"; };
 		E3F3712124D990EE008D6F76 /* ExchangeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeModel.swift; sourceTree = "<group>"; };
-		E3F7F9E824FE966B004DBE69 /* JDNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JDNavigationController.swift; sourceTree = "<group>"; };
-		E3F7F9E924FE966B004DBE69 /* JDNavigationBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JDNavigationBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,7 +137,6 @@
 			children = (
 				E36F9E6D24CD563C008C75FF /* AppDelegate.swift */,
 				E36F9E6F24CD563C008C75FF /* SceneDelegate.swift */,
-				E3F7F9E724FE966B004DBE69 /* Navigation */,
 				E36F9E7124CD563C008C75FF /* ViewController.swift */,
 				E36F9E7324CD563C008C75FF /* Main.storyboard */,
 				E36F9E9D24CD564E008C75FF /* GraphView.swift */,
@@ -193,15 +188,6 @@
 				E319125724DB5006005731EA /* CGPoint+Extension.swift */,
 			);
 			path = "YAP files";
-			sourceTree = "<group>";
-		};
-		E3F7F9E724FE966B004DBE69 /* Navigation */ = {
-			isa = PBXGroup;
-			children = (
-				E3F7F9E824FE966B004DBE69 /* JDNavigationController.swift */,
-				E3F7F9E924FE966B004DBE69 /* JDNavigationBar.swift */,
-			);
-			path = Navigation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -355,8 +341,6 @@
 				E3E297BC24D76312009EF0F0 /* YAPLayout.swift in Sources */,
 				E36F9E7024CD563C008C75FF /* SceneDelegate.swift in Sources */,
 				E3E297C424D894A5009EF0F0 /* UIRoundedButtonFactory.swift in Sources */,
-				E3F7F9EB24FE966C004DBE69 /* JDNavigationBar.swift in Sources */,
-				E3F7F9EA24FE966C004DBE69 /* JDNavigationController.swift in Sources */,
 				E3E2979624D75996009EF0F0 /* RateHeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
